@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samy
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Swift
+- 👀 I’m a Computer Science Student
+- 🌱 I’m currently learning Swift, JavaScript and Angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on instagram: @samyinavalid
 
