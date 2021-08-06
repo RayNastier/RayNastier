@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samy
 - 👀 I’m a Computer Science Student
-- 🌱 I’m currently learning Swift, Ionic and DFlutter.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Swift, Ionic and Flutter.
+- 💞️ I’m looking to collaborate on ... flutter project, if you have any flutter experience feel free to contact me.
 - 📫 How to reach me on mail: s.mahdid@univ-boumerdes.dz
 
 <!---
