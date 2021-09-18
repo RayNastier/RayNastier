@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Ionic and angular**
 
-- 👯 I’m looking to collaborate on **Flutter Project**
+- 👯 I’m looking to collaborate on a **Flutter** project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
