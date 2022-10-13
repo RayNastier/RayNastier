@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Samy's Journey</b>
 </h1>
 
-Hello, this is Samy a computer science student living in Algiers. Currently working as an iOS developer at ®Arbin.
+<p align="center"> Hello, this is Samy a computer science student living in Algiers. Currently working as an iOS developer at ®Arbin. </p>
 
 <br>
 
@@ -49,8 +49,8 @@ public var me = Swifter(
 <br/>
 <p align="left">
   <a href="https://github.com/RayNastier">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RayNastier&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RayNastier&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
